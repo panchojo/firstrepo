@@ -6,7 +6,7 @@ package myfirst;
 
 /**
  *
- * @author Joy
+ * @author Guess Who
  * @modified by me 
  // commit change demo pull
  */
